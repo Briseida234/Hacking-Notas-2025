@@ -1,8 +1,8 @@
-#Fundamentos de Seguridad de la Información  
+## Fundamentos de Seguridad de la Información  
 
-##Notas de la solución a los retos de hacking 
-.Brieida Guzmán Ramírez
-.guzmanramirezbris@gmail.com
+### Notas de la solución a los retos de hacking 
+* Briseida Guzmán Ramírez
+* guzmanramirezbris@gmail.com
 
 
 
