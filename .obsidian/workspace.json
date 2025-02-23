@@ -6,7 +6,7 @@
       {
         "id": "1e32e4e04dc791ae",
         "type": "tabs",
-        "dimension": 78.38345864661655,
+        "dimension": 78.34224598930481,
         "children": [
           {
             "id": "c2d94731de0edb4e",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/General Skills 3/10-serpentine.md",
+                "file": "picoCFT/General Skills/07-collaborative-development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-serpentine"
+              "title": "07-collaborative-development"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "2aa97ab44ca4c1a9",
         "type": "tabs",
-        "dimension": 21.616541353383457,
+        "dimension": 21.65775401069519,
         "children": [
           {
             "id": "c27ce71a6984964a",
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6e12b003fe15da32",
@@ -185,6 +185,25 @@
   },
   "active": "c2d94731de0edb4e",
   "lastOpenFiles": [
+    "picoCFT/General Skills/08-binary-search.md",
+    "picoCFT/General Skills/07-collaborative-development.md",
+    "picoCFT/General Skills/02-chrono.md",
+    "picoCFT/General Skills/04-committee-issue.md",
+    "picoCFT/General Skills/05-time-machine.md",
+    "picoCFT/General Skills/06-blame-game.md",
+    "picoCFT/General Skills/09-binhexa.md",
+    "picoCFT/General Skills/10-ASCII-numbers.md",
+    "picoCFT/General Skills/01-permissions.md",
+    "picoCFT/General Skills/03-special.md",
+    "picoCFT/General Skills 1/01-lets-Warm-Up.md",
+    "picoCFT/General Skills 2/01-based.md",
+    "picoCFT/General Skills 2/06-tab-tab-attack.md",
+    "picoCFT/General Skills 2/05-useless.md",
+    "picoCFT/General Skills 2/04-static-ain´t-always-noise.md",
+    "picoCFT/General Skills 2/03-wave-a-flag.md",
+    "picoCFT/General Skills 2/02-strings-it.md",
+    "picoCFT/General Skills 3/10-serpentine.md",
+    "picoCFT/General Skills",
     "picoCFT/General Skills 3/09-pw-crack-3.md",
     "picoCFT/General Skills 3/08-pw-crack-2.md",
     "picoCFT/General Skills 3/07-pw-crack-1.md",
@@ -193,33 +212,14 @@
     "picoCFT/General Skills 3/04-convertme-.-py.md",
     "picoCFT/General Skills 3/03-codebook.md",
     "picoCFT/General Skills 3/02-runme-.-py.md",
-    "picoCFT/General Skills 3/01-super-ssh.md",
-    "picoCFT/General Skills 3/10-serpentine.md",
-    "picoCFT/General Skills 2/09-big-zip.md",
-    "picoCFT/General Skills 2/10-first-find.md",
-    "picoCFT/General Skills/01-lets-Warm-Up.md",
-    "Welcome.md",
-    "picoCFT/General Skills 2/01-based.md",
-    "picoCFT/General Skills 2/02-strings-it.md",
-    "picoCFT/General Skills/10-warmed-up.md",
-    "picoCFT/General Skills/09-nice-netcad.md",
-    "picoCFT/General Skills/08-glitch-cat.md",
-    "picoCFT/General Skills/07-plumbing.md",
-    "picoCFT/General Skills/06-what's-a-net-cat.md",
-    "picoCFT/General Skills/05-obedient-cat.md",
-    "picoCFT/General Skills/04-first-grep.md",
-    "picoCFT/General Skills/03-bases.md",
-    "picoCFT/General Skills/02-2-warm.md",
     "picoCFT/General Skills 3",
-    "picoCFT/Untitled.md",
     "picoCFT/GeneralSkills/Untitled",
     "picoCFT/General Skills 2",
-    "picoCFT/General Skills",
+    "picoCFT/General Skills 1",
     "GeneralSkills2/Untitled",
     "GeneralSkills2",
     "GeneralSki",
     "picoCFT",
-    "Untitled 2",
-    "Untitled 1"
+    "Untitled 2"
   ]
 }
