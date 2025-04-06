@@ -10,7 +10,8 @@ Hints:
 
 ## Solución:
 
-
+```
+picoCTF{c3rt!fi3d_Xp3rt_tr1ckst3r_3f706222}
 
 //Crear el archivo
 wshell.php y después cambiar a wshell.png.php
@@ -49,3 +50,4 @@ PNG
 
 /* picoCTF{c3rt!fi3d_Xp3rt_tr1ckst3r_3f706222} */
 
+```

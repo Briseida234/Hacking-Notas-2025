@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/Tarea 2 - Web/10-webdecode.md",
+                "file": "picoCFT/picoCTF Web 4/01-matchTheRegex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-webdecode"
+              "title": "01-matchTheRegex"
             }
           },
           {
@@ -181,26 +181,26 @@
   },
   "active": "261936c0af442be8",
   "lastOpenFiles": [
+    "picoCFT/picoCTF Web 4/02-soap.md",
+    "picoCFT/picoCTF Web 4/03-Trickster.md",
+    "picoCFT/picoCTF Web 4/04-most-cookies-untitled.md",
+    "picoCFT/picoCTF Web 4/01-matchTheRegex.md",
+    "picoCFT/picoCTF Web 3/03-JaWT Scratchpad.md",
+    "picoCFT/picoCTF Web 3/02-more-SQLi.md",
+    "picoCFT/Tarea 2 - Web/10-webdecode.md",
     "picoCFT/Tarea 2 - Web/09-unminify.md",
     "picoCFT/Tarea 2 - Web/08-SQLiLite.md",
     "picoCFT/Tarea 2 - Web/07-secrets.md",
     "picoCFT/Tarea 2 - Web/06-roboto-sans.md",
     "picoCFT/Tarea 2 - Web/05-power-cookie.md",
-    "picoCFT/Tarea 2 - Web/10-webdecode.md",
     "picoCFT/Tarea 2 - Web/04-local-authority.md",
     "picoCFT/Tarea 2 - Web/01-includes.md",
     "picoCFT/Tarea 2 - Web/02-inspect-HTML.md",
     "picoCFT/picoCTF Web 2/01-GET-aHEAD.md",
-    "picoCFT/picoCTF Web 4/04-most-cookies-untitled.md",
     "picoCFT/Tarea 2 - Web",
-    "picoCFT/picoCTF Web 4/03-Trickster.md",
-    "picoCFT/picoCTF Web 4/02-soap.md",
-    "picoCFT/picoCTF Web 4/01-matchTheRegex.md",
     "picoCFT/picoCTF Web 3/01-Irish-Name-Repo 1.md",
     "Pasted image 20250402121724.png",
-    "picoCFT/picoCTF Web 3/03-JaWT Scratchpad.md",
     "picoCFT/picoCTF Web 4",
-    "picoCFT/picoCTF Web 3/02-more-SQLi.md",
     "Untitled.md",
     "picoCFT/picoCTF Web 2/02-cookies.md",
     "picoCFT/picoCTF Web 3",
