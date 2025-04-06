@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/picoCTF Web 3/01-Irish-Name-Repo 1.md",
+                "file": "picoCFT/Tarea 2 - Web/10-webdecode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Irish-Name-Repo 1"
+              "title": "10-webdecode"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/picoCTF Web 3/01-Irish-Name-Repo 1.md",
+                "file": "picoCFT/picoCTF Web 3/03-JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Irish-Name-Repo 1"
+              "title": "03-JaWT Scratchpad"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,12 +179,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba795a7f5b1aebc4",
+  "active": "261936c0af442be8",
   "lastOpenFiles": [
-    "picoCFT/picoCTF Web 3/02-more-SQLi.md",
-    "picoCFT/picoCTF Web 3/01-Irish-Name-Repo 1.md",
-    "picoCFT/picoCTF Web 3/03-JaWT Scratchpad.md",
+    "picoCFT/Tarea 2 - Web/09-unminify.md",
+    "picoCFT/Tarea 2 - Web/08-SQLiLite.md",
+    "picoCFT/Tarea 2 - Web/07-secrets.md",
+    "picoCFT/Tarea 2 - Web/06-roboto-sans.md",
+    "picoCFT/Tarea 2 - Web/05-power-cookie.md",
+    "picoCFT/Tarea 2 - Web/10-webdecode.md",
+    "picoCFT/Tarea 2 - Web/04-local-authority.md",
+    "picoCFT/Tarea 2 - Web/01-includes.md",
+    "picoCFT/Tarea 2 - Web/02-inspect-HTML.md",
     "picoCFT/picoCTF Web 2/01-GET-aHEAD.md",
+    "picoCFT/picoCTF Web 4/04-most-cookies-untitled.md",
+    "picoCFT/Tarea 2 - Web",
+    "picoCFT/picoCTF Web 4/03-Trickster.md",
+    "picoCFT/picoCTF Web 4/02-soap.md",
+    "picoCFT/picoCTF Web 4/01-matchTheRegex.md",
+    "picoCFT/picoCTF Web 3/01-Irish-Name-Repo 1.md",
+    "Pasted image 20250402121724.png",
+    "picoCFT/picoCTF Web 3/03-JaWT Scratchpad.md",
+    "picoCFT/picoCTF Web 4",
+    "picoCFT/picoCTF Web 3/02-more-SQLi.md",
     "Untitled.md",
     "picoCFT/picoCTF Web 2/02-cookies.md",
     "picoCFT/picoCTF Web 3",
@@ -198,27 +213,12 @@
     "picoCFT/picoCTF Web 1/01-insp3ct0r.md",
     "picoCFT/picoCTF Web 1/04-dont-use-client-side.md",
     "picoCFT/picoCTF Web 1/05-picobrowser.md",
-    "picoCFT/picoCTF Web 1/06-client-side-again.md",
-    "picoCFT/picoCTF Web 1/03-logon.md",
-    "picoCFT/General Skills/01-permissions.md",
-    "picoCFT/picoCTF Web 2/Untitled 6.md",
-    "picoCFT/picoCTF Web 2/Untitled 5.md",
-    "picoCFT/picoCTF Web 2/Untitled 4.md",
-    "picoCFT/picoCTF Web 2/Untitled 3.md",
     "picoCFT/picoCTF Web 2",
-    "picoCFT/General Skills 3/10-serpentine.md",
-    "picoCFT/picoCTF Web 1.md",
     "picoCFT/picoCTF Web 1",
     "Untitled",
-    "picoCFT/General Skills/07-collaborative-development.md",
-    "picoCFT/General Skills/08-binary-search.md",
-    "picoCFT/General Skills/02-chrono.md",
-    "picoCFT/General Skills/04-committee-issue.md",
     "picoCFT/General Skills",
     "picoCFT/General Skills 3",
     "picoCFT/GeneralSkills/Untitled",
-    "picoCFT/General Skills 2",
-    "picoCFT/General Skills 1",
-    "GeneralSkills2/Untitled"
+    "picoCFT/General Skills 2"
   ]
 }
