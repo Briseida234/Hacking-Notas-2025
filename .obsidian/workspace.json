@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1e32e4e04dc791ae",
+        "id": "d28f4c21896ec3b4",
         "type": "tabs",
         "children": [
           {
-            "id": "261936c0af442be8",
+            "id": "14a550bb0f193834",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/Forensinc/03-shark-on-wire-1.md",
+                "file": "picoCFT/Primer Examen Parcial/Parte 1 - General Skills/10-specialer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-shark-on-wire-1"
-            }
-          },
-          {
-            "id": "ba795a7f5b1aebc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT/picoCTF Web 3/03-JaWT Scratchpad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03-JaWT Scratchpad"
+              "title": "10-specialer"
             }
           }
         ]
@@ -179,52 +165,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "261936c0af442be8",
+  "active": "14a550bb0f193834",
   "lastOpenFiles": [
+    "picoCFT/Primer Examen Parcial/Parte 2 - Web/10-WebSockFish.md",
+    "picoCFT/Primer Examen Parcial/Parte 2 - Web/09-SSTI2.md",
+    "Pasted image 20250414225122.png",
+    "Pasted image 20250414224959.png",
+    "picoCFT/Primer Examen Parcial/Parte 1 - General Skills/10-specialer.md",
+    "picoCFT/General Skills/07-collaborative-development.md",
+    "Pasted image 20250414221943.png",
+    "picoCFT/General Skills/01-permissions.md",
+    "picoCFT/Primer Examen Parcial/Parte 1 - General Skills/04-rust-fixme-1.md",
+    "Pasted image 20250414191821.png",
+    "picoCFT/Primer Examen Parcial/Parte 1 - General Skills/01- FANTASY-CTF.md",
+    "picoCFT/Primer Examen Parcial/Parte 2 - Web/08-.md",
+    "picoCFT/Primer Examen Parcial/Parte 2 - Web/07-.md",
+    "picoCFT/Primer Examen Parcial/Parte 2 - Web/06-.md",
+    "picoCFT/Primer Examen Parcial/Parte 2 - Web/05-.md",
+    "picoCFT/Primer Examen Parcial/Parte 2 - Web/04-.md",
+    "picoCFT/Primer Examen Parcial/Parte 2 - Web/03-.md",
+    "picoCFT/Primer Examen Parcial/Parte 2 - Web/02-.md",
+    "picoCFT/Primer Examen Parcial/Parte 2 - Web/01-.md",
+    "picoCFT/Primer Examen Parcial/Parte 1 - General Skills/02-hashingJobApp.md",
+    "picoCFT/Primer Examen Parcial/Parte 1 - General Skills/03-python-wrangling.md",
+    "picoCFT/Primer Examen Parcial/Parte 1 - General Skills/05-rust-fixme-2.md",
+    "picoCFT/Primer Examen Parcial/Parte 1 - General Skills/06-rust-fixme-3.md",
+    "picoCFT/Primer Examen Parcial/Parte 1 - General Skills/08-flag_shop.md",
+    "picoCFT/Primer Examen Parcial/Parte 1 - General Skills/07-dont-you-love-banners.md",
+    "picoCFT/Primer Examen Parcial/Parte 1 - General Skills/09-sansalpha.md",
+    "picoCFT/picoCTF Web 3/03-JaWT Scratchpad.md",
+    "picoCFT/Forensinc/03-shark-on-wire-1.md",
+    "picoCFT/Primer Examen Parcial/Parte 2 - Web",
+    "picoCFT/Primer Examen Parcial/Parte 1 - General Skills",
+    "picoCFT/Primer Examen Parcial",
     "Pasted image 20250408134827.png",
     "Pasted image 20250408134808.png",
     "Pasted image 20250408134654.png",
     "Pasted image 20250408134513.png",
     "Pasted image 20250408134346.png",
     "picoCFT/Forensinc/04-extensions.md",
-    "picoCFT/Forensinc/05-what-lies-within.md",
-    "picoCFT/Forensinc/03-shark-on-wire-1.md",
-    "picoCFT/Forensinc/02-so-meta.md",
-    "picoCFT/Forensinc/01-Glory of the Garden.md",
-    "picoCFT/General Skills 1/01-lets-Warm-Up.md",
     "Pasted image 20250407130957.png",
-    "picoCFT/General Skills/01-permissions.md",
-    "Pasted image 20250407130046.png",
-    "picoCFT/Tarea 2 - Web/01-includes.md",
-    "picoCFT/Forensic 1.md",
     "picoCFT/Untitled 1",
     "picoCFT/Forensinc",
-    "picoCFT/picoCTF Web 4/04-most-cookies-untitled.md",
-    "picoCFT/picoCTF Web 4/01-matchTheRegex.md",
-    "picoCFT/picoCTF Web 4/02-soap.md",
-    "picoCFT/picoCTF Web 4/03-Trickster.md",
-    "picoCFT/picoCTF Web 3/03-JaWT Scratchpad.md",
-    "picoCFT/picoCTF Web 3/02-more-SQLi.md",
-    "picoCFT/Tarea 2 - Web/10-webdecode.md",
-    "picoCFT/Tarea 2 - Web/09-unminify.md",
-    "picoCFT/Tarea 2 - Web/08-SQLiLite.md",
-    "picoCFT/Tarea 2 - Web/07-secrets.md",
-    "picoCFT/Tarea 2 - Web/06-roboto-sans.md",
-    "picoCFT/Tarea 2 - Web/05-power-cookie.md",
-    "picoCFT/Tarea 2 - Web/04-local-authority.md",
-    "picoCFT/Tarea 2 - Web/02-inspect-HTML.md",
-    "picoCFT/picoCTF Web 2/01-GET-aHEAD.md",
     "picoCFT/Tarea 2 - Web",
-    "picoCFT/picoCTF Web 3/01-Irish-Name-Repo 1.md",
-    "Pasted image 20250402121724.png",
     "picoCFT/picoCTF Web 4",
     "picoCFT/picoCTF Web 3",
-    "Pasted image 20250324125523.png",
-    "Pasted image 20250324122208.png",
     "picoCFT/picoCTF Web 2",
-    "picoCFT/picoCTF Web 1",
-    "Untitled",
-    "picoCFT/General Skills",
-    "picoCFT/General Skills 3"
+    "picoCFT/picoCTF Web 1"
   ]
 }
