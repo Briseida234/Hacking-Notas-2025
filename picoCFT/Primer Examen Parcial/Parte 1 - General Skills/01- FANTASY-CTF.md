@@ -10,7 +10,7 @@ Hints:
 
 
 ## Solución:
-
+```
 Parte 1:
 Instalar primero netcat 
 sudo apt install netcat-openbsd o  sudo apt install netcat
@@ -19,9 +19,9 @@ sudo apt install netcat-openbsd o  sudo apt install netcat
 
 Parte 2: Ingresar este comando
 nc verbal-sleep.picoctf.net 55628
--Después darle enter hasta salir las opciones.
-Elegir primero C y volverle a dar enter, hasta volver a ingresar una opción y poner A, y de nuevo enter, hasta encontrar la bandera
-
+* Después darle enter hasta salir las opciones.
+* Elegir primero C y volverle a dar enter, hasta volver a ingresar una opción y poner A, y de nuevo enter, hasta encontrar la bandera
+```
 
 
 
