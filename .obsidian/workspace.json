@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/picoCTF - Forensinc 2/03-c0rrupt.md",
+                "file": "picoCFT/picoCTF Forensic3 - Parte 3/02-Webnet1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-c0rrupt"
+              "title": "02-Webnet1"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 263.5
   },
   "right": {
     "id": "6e12b003fe15da32",
@@ -182,13 +182,21 @@
   },
   "active": "2e9f57542d38134d",
   "lastOpenFiles": [
-    "picoCFT/picoCTF - Forensinc 2/02-WhitePages.md",
+    "picoCFT/picoCTF Forensic3 - Parte 3/01-WebNet0.md",
+    "picoCFT/picoCTF Forensic3 - Parte 3/02-Webnet1.md",
+    "picoCFT/picoCTF Forensic3 - Parte 3/05-MacroHard WeakEdge.md",
+    "picoCFT/picoCTF Forensic3 - Parte 3/04-tunn3l_v1s10n.md",
+    "picoCFT/picoCTF Forensic3 - Parte 3/03-Matryoshka doll.md",
+    "Pasted image 20250506161610.png",
+    "picoCFT/picoCTF - Forensinc 2/01-m00nwalk.md",
+    "Pasted image 20250506161351.png",
+    "picoCFT/picoCTF - Forensinc 2/04-like1000.md",
     "picoCFT/picoCTF - Forensinc 2/03-c0rrupt.md",
+    "picoCFT/picoCTF Forensic3 - Parte 3",
+    "picoCFT/picoCTF - Forensinc 2/02-WhitePages.md",
     "Pasted image 20250504220342.png",
     "Pasted image 20250504220313.png",
-    "picoCFT/picoCTF - Forensinc 2/01-m00nwalk.md",
     "picoCFT/picoCTF - Forensinc 2/05-shark on wire 2.md",
-    "picoCFT/picoCTF - Forensinc 2/04-like1000.md",
     "Pasted image 20250503132047.png",
     "Pasted image 20250503131614.png",
     "Pasted image 20250503123617.png",
@@ -204,28 +212,20 @@
     "BRIS.png",
     "l",
     "Pasted image 20250416134348.png",
-    "Pasted image 20250416133537.png",
     "picoCFT/Primer Examen Parcial/Parte 2 - Web/09-SSTI2.md",
     "picoCFT/Primer Examen Parcial/Parte 2 - Web/08-SQL-Direct.md",
     "picoCFT/Primer Examen Parcial/Parte 2 - Web/06-findme.md",
     "picoCFT/Primer Examen Parcial/Parte 2 - Web/05-SSTI1.md",
-    "Pasted image 20250415210045.png",
     "picoCFT/Primer Examen Parcial/Parte 2 - Web/02-cookie-monster-secret-recipe.md",
     "picoCFT/Primer Examen Parcial/Parte 2 - Web/03-head-dump.md",
     "picoCFT/Primer Examen Parcial/Parte 1 - General Skills/06-rust-fixme-3.md",
     "picoCFT/Primer Examen Parcial/Parte 1 - General Skills/07-dont-you-love-banners.md",
-    "picoCFT/Primer Examen Parcial/Parte 2 - Web/04-n0s4n1ty-1.md",
-    "picoCFT/Primer Examen Parcial/Parte 2 - Web/01-bookmarklet.md",
-    "picoCFT/Primer Examen Parcial/Parte 2 - Web/10-WebSockFish.md",
-    "picoCFT/Primer Examen Parcial/Parte 1 - General Skills/09-sansalpha.md",
-    "picoCFT/Primer Examen Parcial/Parte 1 - General Skills/08-flag_shop.md",
     "picoCFT/Primer Examen Parcial/Parte 2 - Web",
     "picoCFT/Primer Examen Parcial/Parte 1 - General Skills",
     "picoCFT/Primer Examen Parcial",
     "picoCFT/Untitled 1",
     "picoCFT/Forensinc",
     "picoCFT/Tarea 2 - Web",
-    "picoCFT/picoCTF Web 4",
-    "picoCFT/picoCTF Web 3"
+    "picoCFT/picoCTF Web 4"
   ]
 }
