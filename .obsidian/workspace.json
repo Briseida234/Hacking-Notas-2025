@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT/picoCTF Forensic3 - Parte 3/02-Webnet1.md",
+                "file": "picoCFT/Untitled/01-Milkslap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-Webnet1"
+              "title": "01-Milkslap"
             }
           }
         ],
@@ -182,8 +182,17 @@
   },
   "active": "2e9f57542d38134d",
   "lastOpenFiles": [
-    "picoCFT/picoCTF Forensic3 - Parte 3/01-WebNet0.md",
+    "picoCFT/Untitled/05-Operation Orchid.md",
+    "picoCFT/Untitled/02-Disk, disk, sleuth!.md",
+    "picoCFT/Untitled/01-Milkslap.md",
+    "picoCFT/Untitled/03-Sleuthkit Intro.md",
+    "picoCFT/Untitled/04-Sleuthkit Apprentice.md",
+    "picoCFT/Untitled/06-Operation Oni.md",
+    "picoCFT/Tarea 2 - Web/01-includes.md",
+    "picoCFT/Untitled/Untitled 5.md",
     "picoCFT/picoCTF Forensic3 - Parte 3/02-Webnet1.md",
+    "picoCFT/Untitled",
+    "picoCFT/picoCTF Forensic3 - Parte 3/01-WebNet0.md",
     "picoCFT/picoCTF Forensic3 - Parte 3/05-MacroHard WeakEdge.md",
     "picoCFT/picoCTF Forensic3 - Parte 3/04-tunn3l_v1s10n.md",
     "picoCFT/picoCTF Forensic3 - Parte 3/03-Matryoshka doll.md",
@@ -213,19 +222,11 @@
     "l",
     "Pasted image 20250416134348.png",
     "picoCFT/Primer Examen Parcial/Parte 2 - Web/09-SSTI2.md",
-    "picoCFT/Primer Examen Parcial/Parte 2 - Web/08-SQL-Direct.md",
-    "picoCFT/Primer Examen Parcial/Parte 2 - Web/06-findme.md",
-    "picoCFT/Primer Examen Parcial/Parte 2 - Web/05-SSTI1.md",
-    "picoCFT/Primer Examen Parcial/Parte 2 - Web/02-cookie-monster-secret-recipe.md",
-    "picoCFT/Primer Examen Parcial/Parte 2 - Web/03-head-dump.md",
-    "picoCFT/Primer Examen Parcial/Parte 1 - General Skills/06-rust-fixme-3.md",
-    "picoCFT/Primer Examen Parcial/Parte 1 - General Skills/07-dont-you-love-banners.md",
     "picoCFT/Primer Examen Parcial/Parte 2 - Web",
     "picoCFT/Primer Examen Parcial/Parte 1 - General Skills",
     "picoCFT/Primer Examen Parcial",
     "picoCFT/Untitled 1",
     "picoCFT/Forensinc",
-    "picoCFT/Tarea 2 - Web",
-    "picoCFT/picoCTF Web 4"
+    "picoCFT/Tarea 2 - Web"
   ]
 }
